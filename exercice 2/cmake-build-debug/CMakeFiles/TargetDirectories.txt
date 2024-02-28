@@ -1,0 +1,3 @@
+C:/Users/aessa/CLionProjects/exercice 4 tp 1/cmake-build-debug/CMakeFiles/exercice_4_tp_1.dir
+C:/Users/aessa/CLionProjects/exercice 4 tp 1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/aessa/CLionProjects/exercice 4 tp 1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
