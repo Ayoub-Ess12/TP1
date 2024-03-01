@@ -13,7 +13,7 @@ int main() {
         scanf("%d",&nombre_employe);
 
         for (int j = 1; j <= nombre_employe; j++) {
-            printf("entre le salaire de chaque employes %d :",j);
+            printf("entre le salaire d'employes %d :",j);
             scanf("%f",&salaire);
             somme += salaire ;
 
