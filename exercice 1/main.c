@@ -27,7 +27,6 @@ int main() {
     printf("max = %.2f attribuee %.2f fois ", max, i);
     printf("min = %.2f attribuee %.2f fois ", min, c);
 
-    hhhhhhhhhhhhh
 
     return 0;
 }
